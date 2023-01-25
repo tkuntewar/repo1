@@ -1,0 +1,2 @@
+This line is added from VI command
+Hello You are inside file 1
